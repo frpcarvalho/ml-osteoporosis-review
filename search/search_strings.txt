@@ -1,0 +1,69 @@
+SEARCH STRINGS — ML OSTEOPOROSIS SYSTEMATIC REVIEW (MAJOR REVISION)
+Search window: 1 January 2020 - 31 August 2026 | Language: English
+Generated: August 2026
+
+COPY-PASTE FROM THIS FILE, NOT FROM THE WORD DOCUMENT
+(Word may convert straight quotes to curly quotes and break the queries.)
+
+=====================================================================
+1. PUBMED  (paste into: PubMed search box)
+=====================================================================
+(("machine learning"[tiab] AND osteoporosis[tiab] AND prediction[tiab]) OR ("deep learning"[tiab] AND osteoporosis[tiab] AND (screening[tiab] OR detection[tiab])) OR ("artificial intelligence"[tiab] AND "bone mineral density"[tiab]) OR ("machine learning"[tiab] AND "fracture risk"[tiab] AND prediction[tiab]) OR (xgboost[tiab] AND osteoporosis[tiab]) OR ("random forest"[tiab] AND osteoporosis[tiab] AND prediction[tiab]) OR ("neural network"[tiab] AND "bone density"[tiab]) OR (FRAX[tiab] AND "machine learning"[tiab]) OR (osteoporosis[tiab] AND NHANES[tiab] AND "machine learning"[tiab]) OR ("external validation"[tiab] AND osteoporosis[tiab] AND "prediction model"[tiab]) OR ("ensemble learning"[tiab] AND osteoporosis[tiab]) OR (("explainable AI"[tiab] OR "explainable artificial intelligence"[tiab]) AND osteoporosis[tiab])) AND 2020/01/01:2026/08/31[dp] AND english[la]
+
+=====================================================================
+2. EMBASE  (paste into: Embase.com > Search > Advanced search)
+=====================================================================
+(('machine learning':ti,ab AND osteoporosis:ti,ab AND prediction:ti,ab) OR ('deep learning':ti,ab AND osteoporosis:ti,ab AND (screening:ti,ab OR detection:ti,ab)) OR ('artificial intelligence':ti,ab AND 'bone mineral density':ti,ab) OR ('machine learning':ti,ab AND 'fracture risk':ti,ab AND prediction:ti,ab) OR (xgboost:ti,ab AND osteoporosis:ti,ab) OR ('random forest':ti,ab AND osteoporosis:ti,ab AND prediction:ti,ab) OR ('neural network':ti,ab AND 'bone density':ti,ab) OR (frax:ti,ab AND 'machine learning':ti,ab) OR (osteoporosis:ti,ab AND nhanes:ti,ab AND 'machine learning':ti,ab) OR ('external validation':ti,ab AND osteoporosis:ti,ab AND 'prediction model':ti,ab) OR ('ensemble learning':ti,ab AND osteoporosis:ti,ab) OR (('explainable ai':ti,ab OR 'explainable artificial intelligence':ti,ab) AND osteoporosis:ti,ab)) AND [2020-2026]/py AND [english]/lim
+
+Note: date+language filters are inside the string ([2020-2026]/py, [english]/lim).
+
+=====================================================================
+2-ALT. SCOPUS  (substitui o Embase se nao houver acesso)
+       (paste into: scopus.com > Search > 'Edit in advanced search' /
+        Advanced document search — LIMPAR a caixa antes de colar!
+        NAO colar na caixa basica: o Scopus embrulha em TITLE-ABS-KEY e da 0 resultados)
+=====================================================================
+((TITLE-ABS("machine learning") AND TITLE-ABS(osteoporosis) AND TITLE-ABS(prediction)) OR (TITLE-ABS("deep learning") AND TITLE-ABS(osteoporosis) AND (TITLE-ABS(screening) OR TITLE-ABS(detection))) OR (TITLE-ABS("artificial intelligence") AND TITLE-ABS("bone mineral density")) OR (TITLE-ABS("machine learning") AND TITLE-ABS("fracture risk") AND TITLE-ABS(prediction)) OR (TITLE-ABS(xgboost) AND TITLE-ABS(osteoporosis)) OR (TITLE-ABS("random forest") AND TITLE-ABS(osteoporosis) AND TITLE-ABS(prediction)) OR (TITLE-ABS("neural network") AND TITLE-ABS("bone density")) OR (TITLE-ABS(frax) AND TITLE-ABS("machine learning")) OR (TITLE-ABS(osteoporosis) AND TITLE-ABS(nhanes) AND TITLE-ABS("machine learning")) OR (TITLE-ABS("external validation") AND TITLE-ABS(osteoporosis) AND TITLE-ABS("prediction model")) OR (TITLE-ABS("ensemble learning") AND TITLE-ABS(osteoporosis)) OR ((TITLE-ABS("explainable AI") OR TITLE-ABS("explainable artificial intelligence")) AND TITLE-ABS(osteoporosis))) AND PUBYEAR > 2019 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+Export: Select all > Export > CSV > marcar "Citation information" +
+"Abstract & keywords" > scopus_2026-08.csv
+Nota: se usares Scopus, o manuscrito passa a reportar
+"PubMed, Scopus, Web of Science and IEEE Xplore".
+
+=====================================================================
+3. WEB OF SCIENCE Core Collection  (paste into: Advanced Search)
+=====================================================================
+TS=("machine learning" AND osteoporosis AND prediction) OR TS=("deep learning" AND osteoporosis AND (screening OR detection)) OR TS=("artificial intelligence" AND "bone mineral density") OR TS=("machine learning" AND "fracture risk" AND prediction) OR TS=(xgboost AND osteoporosis) OR TS=("random forest" AND osteoporosis AND prediction) OR TS=("neural network" AND "bone density") OR TS=(FRAX AND "machine learning") OR TS=(osteoporosis AND NHANES AND "machine learning") OR TS=("external validation" AND osteoporosis AND "prediction model") OR TS=("ensemble learning" AND osteoporosis) OR TS=(("explainable AI" OR "explainable artificial intelligence") AND osteoporosis)
+
+Then set: Timespan = Custom, 2020-01-01 to 2026-08-31; Language = English.
+
+=====================================================================
+4. IEEE XPLORE  (paste into: Advanced Search > Command Search)
+=====================================================================
+(("All Metadata":"machine learning" AND "All Metadata":osteoporosis AND "All Metadata":prediction) OR ("All Metadata":"deep learning" AND "All Metadata":osteoporosis AND ("All Metadata":screening OR "All Metadata":detection)) OR ("All Metadata":"artificial intelligence" AND "All Metadata":"bone mineral density") OR ("All Metadata":"machine learning" AND "All Metadata":"fracture risk" AND "All Metadata":prediction) OR ("All Metadata":xgboost AND "All Metadata":osteoporosis) OR ("All Metadata":"random forest" AND "All Metadata":osteoporosis AND "All Metadata":prediction) OR ("All Metadata":"neural network" AND "All Metadata":"bone density") OR ("All Metadata":FRAX AND "All Metadata":"machine learning") OR ("All Metadata":osteoporosis AND "All Metadata":NHANES AND "All Metadata":"machine learning") OR ("All Metadata":"external validation" AND "All Metadata":osteoporosis AND "All Metadata":"prediction model") OR ("All Metadata":"ensemble learning" AND "All Metadata":osteoporosis) OR (("All Metadata":"explainable AI" OR "All Metadata":"explainable artificial intelligence") AND "All Metadata":osteoporosis))
+
+Then refine: Year 2020-2026 (left sidebar).
+If the command is rejected as too long, run the 12 short queries below
+one by one instead (All Metadata), and export each:
+
+  Q01: "machine learning" AND osteoporosis AND prediction
+  Q02: "deep learning" AND osteoporosis AND (screening OR detection)
+  Q03: "artificial intelligence" AND "bone mineral density"
+  Q04: "machine learning" AND "fracture risk" AND prediction
+  Q05: xgboost AND osteoporosis
+  Q06: "random forest" AND osteoporosis AND prediction
+  Q07: "neural network" AND "bone density"
+  Q08: FRAX AND "machine learning"
+  Q09: osteoporosis AND NHANES AND "machine learning"
+  Q10: "external validation" AND osteoporosis AND "prediction model"
+  Q11: "ensemble learning" AND osteoporosis
+  Q12: ("explainable AI" OR "explainable artificial intelligence") AND osteoporosis
+
+=====================================================================
+EXPORT FILE NAMING (save everything to Search_Kit/Raw_Exports/)
+=====================================================================
+  pubmed_2026-08.csv      (PubMed: Save > All results > CSV)
+  pubmed_2026-08.nbib     (PubMed: Send to > Citation manager — optional 2nd format)
+  embase_2026-08.csv      (Embase: Export > CSV - Fields: Full Record)
+  wos_2026-08_p1.xls      (WoS: Export > Excel, 1000 records per batch)
+  ieee_2026-08.csv        (IEEE: Export > Search results CSV, max 2000)
