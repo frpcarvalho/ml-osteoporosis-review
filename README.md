@@ -38,3 +38,13 @@ An AI assistant (Claude, Anthropic) supported literature organisation, de-duplic
 ## License
 
 Code: MIT. Data: CC BY 4.0. Please cite the manuscript when reusing.
+
+
+## Revision R1 (November 2026)
+
+After peer review at *Bone* (BONE-D-26-01430), all discrimination estimates were re-extracted from the full texts with verbatim sources and verified, eligibility was re-verified, overlapping cohorts were removed from pooling, target conditions were synthesised separately (REML with Hartung-Knapp intervals), and standard PROBAST was applied to both search rounds.
+
+- `data/R1/`: re-extraction records (`reextraction_records.jsonl`), analysis dataset (`ds.json`), all results (`results.json`), PROBAST judgements (`probast.json`) and the electronic supplementary material (ESM 1-5).
+- `code/R1/`: analysis code (see `code/R1/README_R1.md`).
+- `figures/R1/`: Figures 1-4 of the revised manuscript.
+- Files of the originally submitted version (`data/Data_Extraction_v2.xlsx`, `data/data_extraction.csv`, `data/meta_v3_data.csv`, `data/PROBAST_lite_provisional.xlsx` and `code/meta_analysis.py`) are kept for transparency; they are superseded by the R1 files.
