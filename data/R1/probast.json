@@ -1,0 +1,6746 @@
+[
+ {
+  "id": "U23",
+  "study": "Wei L (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 143",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U27",
+  "study": "Sarquis Serpa A (2026)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 28",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U33",
+  "study": "Zhang Y (2026)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 56",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U38",
+  "study": "Boonrod A (2026)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "N",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~356",
+   "4.6": "leakage",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U42",
+  "study": "Yang K (2026)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "PN",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.1": "peripheral DXA site in reference",
+   "4.1": "events in evaluation set: 29",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "High",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U68",
+  "study": "Lee K-XA (2026)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "PN",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "1.1": "case-control / healthy controls",
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 32",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U185",
+  "study": "Qin C (2026)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "N"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 102",
+   "4.8": "best evaluation: apparent_bootstrap"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U221",
+  "study": "Lin X (2026)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~33",
+   "4.8": "best evaluation: external; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U260",
+  "study": "Mukhopadhyay K (2026)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "PY",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 12",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U309",
+  "study": "Zhang D (2025)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 262",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: cv"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U310",
+  "study": "Hsing S-C (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 1993",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U318",
+  "study": "Park J (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~1097",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U344",
+  "study": "Dias BSS (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 37",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U348",
+  "study": "Su T (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~26",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U360",
+  "study": "Jin W (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 599",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Low"
+  },
+  "overall": "Low",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U641",
+  "study": "Imoto Y (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U674",
+  "study": "Boonrod A (2024)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 30",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U702",
+  "study": "Zhang K (2024)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "NI"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: None"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U722",
+  "study": "Nian S (2024)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 16",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U910",
+  "study": "Chen Y-C (2023)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~69",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: cv"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U920",
+  "study": "Wu X (2023)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 20",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U927",
+  "study": "Xue L (2023)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 314",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: cv"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U935",
+  "study": "Breit H-C (2023)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "N"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 56",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: apparent"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U943",
+  "study": "Sebro R (2023)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~27",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1073",
+  "study": "Yang J (2022)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PN",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "N"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 298",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: apparent"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1091",
+  "study": "Luo W (2022)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~96",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: cv"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1185",
+  "study": "Park HW (2021)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~232",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1258",
+  "study": "Lee S (2020)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 51",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1261",
+  "study": "Shim J-G (2020)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 164",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: temporal"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1264",
+  "study": "Zhang B (2020)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~69",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Albuquerque",
+  "study": "Albuquerque GA (2023)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "PN",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.1": "peripheral DXA site in reference",
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 75",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Asamoto",
+  "study": "Asamoto T (2024)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~1020",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Cai",
+  "study": "Cai Z (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "PN",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.1": "QUS reference",
+   "4.1": "events in evaluation set: ~1172",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Hsu",
+  "study": "Hsu C-T (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~463",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Low"
+  },
+  "overall": "Low",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Huang",
+  "study": "Huang W (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "PY",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Hung",
+  "study": "Hung W-C (2024)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: unclear"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "Unclear"
+  },
+  "overall": "Unclear",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Jang",
+  "study": "Jang M (2021)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~381",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: temporal"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Kang",
+  "study": "Kang SJ (2024)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 241",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Li",
+  "study": "Li H (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "female internal test n=3,796 (NHANES): events >100",
+   "4.8": "best evaluation: temporal"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Low"
+  },
+  "overall": "Low",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Oh",
+  "study": "Oh S (2024)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 25",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external_pretrained"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Peng",
+  "study": "Peng T (2024)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~119",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Shao",
+  "study": "Shao Z (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 569",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Low"
+  },
+  "overall": "Low",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Tsai",
+  "study": "Tsai D-J (2024)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Wang",
+  "study": "Wang P (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "PN",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.1": "peripheral DXA site in reference",
+   "4.1": "events in evaluation set: ~45",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_WeiQ",
+  "study": "Wei Q (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~855",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Low"
+  },
+  "overall": "Low",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_WeiT",
+  "study": "Wei Q [T2DM] (2025)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Unclear"
+  },
+  "overall": "Unclear",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Yang",
+  "study": "Yang X (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Yasin",
+  "study": "Yasin P (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Yen",
+  "study": "Yen T-Y (2024)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~624",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Yu",
+  "study": "Yu X (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~45",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Zhang",
+  "study": "Zhang Y (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~1225",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Ho",
+  "study": "Ho C-S (2025)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U22",
+  "study": "Acosta-Batlle (2026)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 394",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: temporal"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U13",
+  "study": "Kim J (2026)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~1472",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U61",
+  "study": "Huang W (2026)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 42",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U66",
+  "study": "Teng X (2026)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 626",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": false
+ },
+ {
+  "id": "U90",
+  "study": "Yang 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "PN",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PN",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "N"
+  },
+  "why": {
+   "3.1": "QUS reference",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: apparent"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U106",
+  "study": "Chen Y 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 256",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U108",
+  "study": "Chen S-H 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PN",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 94",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U119",
+  "study": "Auriat 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 7449",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U120",
+  "study": "Qiu C 2026",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": false
+ },
+ {
+  "id": "U124",
+  "study": "CKD postmenopausal NHANES 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Unclear"
+  },
+  "overall": "Unclear",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U178",
+  "study": "Taiwan Biobank sex-specific 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "PN",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.1": "QUS reference",
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U189",
+  "study": "RA osteoporosis CNN-SVM 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U194",
+  "study": "Stacking ensemble NHANES 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~392",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U196",
+  "study": "KNHANES online calculator 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~1201",
+   "4.8": "best evaluation: temporal"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Low"
+  },
+  "overall": "Low",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U209",
+  "study": "Shao HipOsteoRisk 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "external AUC CI 0.814-0.843 implies large external set",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Low"
+  },
+  "overall": "Low",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U216",
+  "study": "Elderly women RF external 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 167",
+   "4.8": "best evaluation: external; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Low"
+  },
+  "overall": "Low",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U219",
+  "study": "Perimenopausal osteopenia RF 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Unclear"
+  },
+  "overall": "Unclear",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U220",
+  "study": "Sequence-specific MRI radiomics 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U222",
+  "study": "T2DM multimodal XGBoost 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~44",
+   "4.8": "best evaluation: external; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U225",
+  "study": "Sjogren syndrome OP 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PN"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U230",
+  "study": "CT radiomics lumbar OP 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U244",
+  "study": "Lumbar MRI DL (NTUH) 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U248",
+  "study": "Stability-driven screening (Kaggle+Phayao) 2026",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "PY",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.1": "reference standard not reported in extracted text",
+   "4.1": "events in evaluation set: ~62",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "Unclear"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U249",
+  "study": "Tenofovir CHB nomogram 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "total n=237: evaluation-set events <100",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U251",
+  "study": "Knee radiograph multi-stage CNN 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~23",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U255",
+  "study": "Low-dose CT trabecular attenuation 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "N"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 47",
+   "4.8": "best evaluation: apparent"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U267",
+  "study": "RA + OP ensemble 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~28",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U313",
+  "study": "PHPT CT radiomics 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U340",
+  "study": "Southern Taiwan health exam ANN 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: temporal; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U542",
+  "study": "ML vs LR general population (Bonepredict) 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.1": "reference standard not reported in extracted text",
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "Unclear"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U546",
+  "study": "LDCT proximal femur DL-seg + radiomics 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~35",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U547",
+  "study": "Al-Husaini N. 2025 (Qatar Biobank, low FN BMD)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 285",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U556",
+  "study": "Unenhanced chest CT DL multicentre 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "PN",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.1": "peripheral DXA site in reference",
+   "4.1": "events in evaluation set: ~80",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U576",
+  "study": "PROSCXR OSTEO chest X-ray 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~28",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U581",
+  "study": "Chest X-ray + clinical multimodal (Daping) 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U598",
+  "study": "Bidirectional chest radiograph BMD estimation 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U599",
+  "study": "Asymptomatic elderly combined ML 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.1": "reference standard not reported in extracted text",
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "Unclear"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U605",
+  "study": "HIV TDF young adults bone loss 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PN",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "NI"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: None"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U607",
+  "study": "Inflammation ML multi-site NHANES 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: CV; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U630",
+  "study": "Elderly low BMD supervised ML 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "total n=12,108, ~50% low BMD: evaluation-set events >100",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Low"
+  },
+  "overall": "Low",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U677",
+  "study": "Optical bone densitometry Thai 2024",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~71",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: CV"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U680",
+  "study": "Chest CT multi-feature fusion DCNN (QCT) 2024",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~223",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U738",
+  "study": "Shoulder CT opportunistic SVM 2024",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U824",
+  "study": "Hip radiograph DL OP classification + T-score 2024",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U826",
+  "study": "Chest CT DCNN opportunistic (QCT) 2024",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U841",
+  "study": "Wang S. 2024 (fully automated DL, chest CT)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.1": "reference standard not reported in extracted text",
+   "4.1": "events in evaluation set: ~93",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "Unclear"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U842",
+  "study": "Park M.S. 2024 (femoral OP, abdomen-pelvic CT radiomics)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 30",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: temporal"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U859",
+  "study": "Chest CT + bone turnover markers 2024",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.1": "reference standard not reported in extracted text",
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 56",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "Unclear"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U863",
+  "study": "Low bone density ML NHANES (LR best) 2024",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "total n=3,545 (1,675 low BMD): evaluation-set events >100",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Low"
+  },
+  "overall": "Low",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U865",
+  "study": "DNN vs ML osteoporosis risk (LOS) 2024",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U869",
+  "study": "LDCT radiomics + DL (QCT) temporal 2024",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~35",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: temporal"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U875",
+  "study": "Dental panoramic AI (Danube) 2024",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~18",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U879",
+  "study": "Cystic fibrosis LDCT HU 2024",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PN",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "N"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~23",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: apparent"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U880",
+  "study": "Dental panoramic DL with age-matched controls 2024",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "PN",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "1.1": "case-control / healthy controls",
+   "3.1": "reference standard not reported in extracted text",
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "Unclear"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1015",
+  "study": "Open-source hip CT CT-aBMD tool 2023",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "N"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 377",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: apparent"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1021",
+  "study": "Fully automated DL opportunistic CT (QCT) 2023",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~35",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1023",
+  "study": "T2DM ML XGBoost preliminary 2023",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.1": "reference standard not reported in extracted text",
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1025",
+  "study": "Interpretable DL NHANES/KNHANES 2023",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1026",
+  "study": "POST preclinical screening tool 2023",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Unclear"
+  },
+  "overall": "Unclear",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1031",
+  "study": "KoGES ML osteoporosis risk + HEXA 2023",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "PN",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.1": "QUS reference",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1043",
+  "study": "Blood test elderly women ML (Japan) 2023",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "PN",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.1": "peripheral DXA site in reference",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1093",
+  "study": "Ensemble DL panoramic + clinical covariates 2022",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "NI"
+  },
+  "why": {
+   "3.1": "reference standard not reported in extracted text",
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: None; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "Unclear"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1096",
+  "study": "Older Vietnamese women ML 2022",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "NI"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.8": "best evaluation: None; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1135",
+  "study": "Hierarchical opportunistic screening clinical + CT 2022",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PN",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1136",
+  "study": "Psoas abdominal CT radiomics ML 2022",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1137",
+  "study": "QCT L3 radiomics OP vs osteopenia 2022",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "N",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PY"
+  },
+  "why": {
+   "2.3": "predictor derived from reference-standard images",
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~62",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "High",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1146",
+  "study": "mDixon MRI radiomics automated pipeline (QCT) 2022",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~22",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: temporal"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1154",
+  "study": "Mao 2022 spine radiograph DL + covariates",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~220",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1161",
+  "study": "Korean postmenopausal ensemble ML 2022",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.1": "reference standard not reported in extracted text",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "Unclear"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1204",
+  "study": "Hip radiograph DL (Korea) 2021",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~41",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1222",
+  "study": "Radiofrequency NN osteopenia screening 2021",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "PN",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "NI"
+  },
+  "why": {
+   "1.1": "case-control / healthy controls",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: None"
+  },
+  "domains": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1234",
+  "study": "Femoral OP abdomen-pelvic CT radiomics 2021",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "NI"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: None"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1244",
+  "study": "Taiwan health exam ML men/women 2021",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1260",
+  "study": "LDCT lung screening DL BMD (QCT) 2020",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1296",
+  "study": "Dental panoramic transfer learning (Korea Univ Ansan) 2020",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~238",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: CV; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "O_Si_2025",
+  "study": "Si W 2025",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "N",
+   "4.7": "Y",
+   "4.8": "PN"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.6": "SMOTE applied to whole",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U34",
+  "study": "Hiyama A. 2026a (seven ML, lumbar CT HU)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~60",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U35",
+  "study": "Hiyama A. 2026b (XGBoost, CT HU)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "N",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "N",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "1.2": "selective exclusion/spectrum: HU-DXA mismatch",
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~43",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U69",
+  "study": "Song J. 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~40",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U70",
+  "study": "Katagiri H. 2026",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~105",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "Low"
+  },
+  "overall": "Low",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U84",
+  "study": "Chen 2026 (knee X-ray multimodal)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~196",
+   "4.8": "best evaluation: external; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U114",
+  "study": "ShangGuan Y. 2026 (prefrail/frail NHANES)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "Y",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "Y",
+   "4.8": "PN"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 297",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U158",
+  "study": "Jin Q. 2026 (OPDoctorNet)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "NI"
+  },
+  "why": {
+   "3.1": "reference standard not reported in extracted text",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: None"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "Unclear"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U215",
+  "study": "Santanapipatkul P. 2026 (AISOT chest X-ray)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~68",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U326",
+  "study": "Li Y. 2025a (80 kV chest CT)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~48",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U330",
+  "study": "Li Y. 2025b (100 kV chest CT)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~176",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U331",
+  "study": "Li Y. 2025c (chest LDCT + lumbar CT, multicentre)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U337",
+  "study": "Li Y. 2025d (DECT AI, Bone)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "N"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 29",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: apparent"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U355",
+  "study": "Gharehmohammadi F. 2025 (foot/ankle radiographs, Mayo)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~62",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U631",
+  "study": "G\u00fcng\u00f6r C. 2025 (clivus CT radiomics)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 30",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: CV; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U664",
+  "study": "Chen B. 2024 (lumbar CT radiomics, elderly)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.1": "reference standard not reported in extracted text",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "Unclear"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U691",
+  "study": "Wang S. 2024 (LDCT DL+radiomics, QCT)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~35",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: temporal"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U692",
+  "study": "Fang K. 2024 (hip CT radiomics)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: 66",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U816",
+  "study": "Saito R. 2024 (RA, metacarpal cortical index)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "PN",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PY",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.1": "peripheral DXA site in reference",
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~106",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: CV"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "High",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "High",
+   "D2": "Low",
+   "D3": "High",
+   "overall": "High"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U823",
+  "study": "Baik S.M. 2024 (bone turnover markers)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "Y",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~98",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: CV"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U853",
+  "study": "Mohammadi F.G. 2024 (hand radiographs DL)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: ~29",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U866",
+  "study": "Feng S.-W. 2024 (hip X-ray DL)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U889",
+  "study": "Erdem F. 2024 (lumbar MRI ADC radiomics)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "N",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "N",
+   "4.7": "N",
+   "4.8": "PN"
+  },
+  "why": {
+   "4.1": "events in evaluation set: 21",
+   "4.6": "feature selection apparently on full",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: CV; best-of-many model selection"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U902",
+  "study": "Hong N. 2023 (VERTE-X, lateral spine X-ray)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "Y"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: external"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1004",
+  "study": "Mohammed A.Z. 2023 (CNN on DEXA images)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "PY",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "NI",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "NI"
+  },
+  "why": {
+   "3.6": "interval imaging-DXA not reported",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: None"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1020",
+  "study": "Golestan K. 2023 (hand/knee/pelvis X-ray, OAI)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1030",
+  "study": "Mohammadi F.G. 2023 (hand radiographs, preliminary)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "PN",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "PY"
+  },
+  "why": {
+   "4.1": "events in evaluation set: ~48",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: internal_holdout"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U1041",
+  "study": "Vara G. 2023 (lumbosacral MRI texture)",
+  "in_synthesis": true,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "Y",
+   "3.2": "Y",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PY",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "NI"
+  },
+  "why": {
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: None"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Low",
+   "overall": "Low"
+  },
+  "textsrc": true
+ },
+ {
+  "id": "U851",
+  "study": "Li B. 2024 (biochemical indicators, JBRHA)",
+  "in_synthesis": false,
+  "items": {
+   "1.1": "Y",
+   "1.2": "PY",
+   "2.1": "Y",
+   "2.2": "PY",
+   "2.3": "Y",
+   "3.1": "NI",
+   "3.2": "NI",
+   "3.3": "Y",
+   "3.4": "PY",
+   "3.5": "PY",
+   "3.6": "Y",
+   "4.1": "NI",
+   "4.3": "PY",
+   "4.4": "PN",
+   "4.6": "PY",
+   "4.7": "N",
+   "4.8": "NI"
+  },
+  "why": {
+   "3.1": "reference standard not reported in extracted text",
+   "4.1": "events in evaluation set: NR",
+   "4.7": "calibration not assessed",
+   "4.8": "best evaluation: None"
+  },
+  "domains": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "D4": "High"
+  },
+  "overall": "High",
+  "appl": {
+   "D1": "Low",
+   "D2": "Low",
+   "D3": "Unclear",
+   "overall": "Unclear"
+  },
+  "textsrc": false
+ }
+]

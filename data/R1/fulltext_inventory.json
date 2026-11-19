@@ -1,0 +1,1539 @@
+{
+ "update": {
+  "13": {
+   "rid": 13,
+   "src": "pmc",
+   "loc": "PMC12847081",
+   "au": "Kim J.",
+   "yr": 2026,
+   "doi": "10.1007/s00198-025-07727-3",
+   "title": "Explainable opportunistic osteoporosis screening from chest X-rays: a retrospective comparison of foundation models",
+   "journal": "Osteoporosis International"
+  },
+  "22": {
+   "rid": 22,
+   "src": "pmc",
+   "loc": "PMC12743094",
+   "au": "Acosta-Batlle",
+   "yr": 2026,
+   "doi": "10.1007/s00256-025-05033-x",
+   "title": "An AI-based pipeline for osteoporosis/osteopenia prediction using hip radiographs",
+   "journal": "SKELETAL RADIOLOGY"
+  },
+  "23": {
+   "rid": 23,
+   "src": "pdf",
+   "loc": "s00256-025-05067-1.pdf",
+   "au": "Wei L.",
+   "yr": 2026,
+   "doi": "10.1007/s00256-025-05067-1",
+   "title": "Combination of artificial intelligence and chest computed tomography to assess bone mineral density",
+   "journal": "Skeletal Radiology"
+  },
+  "27": {
+   "rid": 27,
+   "src": "pdf",
+   "loc": "s00261-025-05213-2.pdf",
+   "au": "Sarquis Serpa A.",
+   "yr": 2026,
+   "doi": "10.1007/s00261-025-05213-2",
+   "title": "Advancing osteoporosis opportunistic screening: multicenter validation of a deep learning algorithm using abdominal CT scans",
+   "journal": "Abdominal Radiology"
+  },
+  "33": {
+   "rid": 33,
+   "src": "pdf",
+   "loc": "s00586-025-09540-2.pdf",
+   "au": "Zhang Y.",
+   "yr": 2026,
+   "doi": "10.1007/s00586-025-09540-2",
+   "title": "Deep learning model for osteoporosis screening on chest CT with low tube voltage",
+   "journal": "European Spine Journal"
+  },
+  "34": {
+   "rid": 34,
+   "src": "pdf",
+   "loc": "pdfs_novos/Osteoporosis-prediction-using-lumbar-CT-Hounsfield-units-comparative-performance-and-clinical.pdf",
+   "au": "Hiyama A.",
+   "yr": 2026,
+   "doi": "10.1007/s00586-026-09753-z",
+   "title": "Osteoporosis prediction using lumbar CT Hounsfield units: comparative performance and clinical implications of seven machine learning models",
+   "journal": "European Spine Journal"
+  },
+  "35": {
+   "rid": 35,
+   "src": "pdf",
+   "loc": "pdfs_novos/Opportunistic_osteoporosis_screening_using_CT-base.pdf",
+   "au": "Hiyama A.",
+   "yr": 2026,
+   "doi": "10.1007/s00586-026-09782-8",
+   "title": "Opportunistic osteoporosis screening using CT-based Hounsfield units: a machine learning approach for preoperative spine surgery planning",
+   "journal": "European Spine Journal"
+  },
+  "38": {
+   "rid": 38,
+   "src": "pdf",
+   "loc": "s00774-025-01672-1.pdf",
+   "au": "Boonrod A.",
+   "yr": 2026,
+   "doi": "10.1007/s00774-025-01672-1",
+   "title": "Assessing deep learning model performance in osteoporosis screening with lumbar spine radiographs",
+   "journal": "Journal of Bone and Mineral Metabolism"
+  },
+  "42": {
+   "rid": 42,
+   "src": "pdf",
+   "loc": "s10067-026-08286-6.pdf",
+   "au": "Yang",
+   "yr": 2026,
+   "doi": "10.1007/s10067-026-08286-6",
+   "title": "An interpretable machine learning model integrating ultrasound and clinical variables for predicting osteoporosis in patients with rheumatoid arthriti",
+   "journal": "CLINICAL RHEUMATOLOGY"
+  },
+  "61": {
+   "rid": 61,
+   "src": "pmc",
+   "loc": "PMC12856275",
+   "au": "Huang W.",
+   "yr": 2026,
+   "doi": "10.1016/j.bonr.2026.101898",
+   "title": "Intelligent identification of osteoporosis on hip X-rays using vision transformer",
+   "journal": "Bone Reports"
+  },
+  "66": {
+   "rid": 66,
+   "src": "pmc",
+   "loc": "PMC13092471",
+   "au": "Teng X.",
+   "yr": 2026,
+   "doi": "10.1016/j.eclinm.2026.103902",
+   "title": "A multiparameter model (OsteoSC-M3) for early detection and risk stratification of osteoporosis in women: a multicentre cohort study in China",
+   "journal": "eClinicalMedicine"
+  },
+  "68": {
+   "rid": 68,
+   "src": "pdf",
+   "loc": "PIIS0720048X25005935.pdf",
+   "au": "Lee K.-X.A.",
+   "yr": 2026,
+   "doi": "10.1016/j.ejrad.2025.112507",
+   "title": "Enhanced osteoporosis screening via multi-output deep learning: Segmentation and classification of metacarpal radiographs",
+   "journal": "European Journal of Radiology"
+  },
+  "69": {
+   "rid": 69,
+   "src": "pdf",
+   "loc": "pdfs_novos/1-s2.0-S0720048X25006412-main.pdf",
+   "au": "Song J.",
+   "yr": 2026,
+   "doi": "10.1016/j.ejrad.2025.112555",
+   "title": "Enhanced opportunistic CT screening for osteoporosis using Machine learning derived volumetric vertebral and complementary body composition informatio",
+   "journal": "European Journal of Radiology"
+  },
+  "70": {
+   "rid": 70,
+   "src": "pdf",
+   "loc": "pdfs_novos/1-s2.0-S0720048X26002287-main.pdf",
+   "au": "Katagiri H.",
+   "yr": 2026,
+   "doi": "10.1016/j.ejrad.2026.112880",
+   "title": "Deep-learning framework for osteoporosis screening on low-dose X-rays: Addressing image quality variability and cross-ethnic database Heterogeneity",
+   "journal": "European Journal of Radiology"
+  },
+  "84": {
+   "rid": 84,
+   "src": "pdf",
+   "loc": "pdfs_novos/1-s2.0-S1687850725007903-main.pdf",
+   "au": "Chen",
+   "yr": 2026,
+   "doi": "10.1016/j.jrras.2025.102078",
+   "title": "Multi-modal machine learning framework for automated osteoporosis diagnosis from knee X-rays: Emphasizing reproducibility, clinical utility via DCA, a",
+   "journal": "JOURNAL OF RADIATION RESEARCH AND APPLIE"
+  },
+  "90": {
+   "rid": 90,
+   "src": "pmc",
+   "loc": "PMC13264349",
+   "au": "Yang",
+   "yr": 2026,
+   "doi": "10.1016/j.metop.2026.100480",
+   "title": "Ensemble learning uncovers novel metabolomic biomarkers for early osteoporosis prediction in Tibetan plateau populations",
+   "journal": "METABOLISM OPEN"
+  },
+  "106": {
+   "rid": 106,
+   "src": "pmc",
+   "loc": "PMC13351026",
+   "au": "Chen Y.",
+   "yr": 2026,
+   "doi": "10.1038/s41598-026-50659-z",
+   "title": "Machine learning prediction for menopause women with low bone mass: a multicenter and retrospective study",
+   "journal": "Scientific Reports"
+  },
+  "108": {
+   "rid": 108,
+   "src": "pmc",
+   "loc": "PMC13153408",
+   "au": "Chen S.-H.",
+   "yr": 2026,
+   "doi": "10.1038/s41746-026-02484-x",
+   "title": "Advancing diagnostic equity through artificial intelligence chest radiograph screening for osteoporosis in Asian populations",
+   "journal": "npj Digital Medicine"
+  },
+  "114": {
+   "rid": 114,
+   "src": "pdf",
+   "loc": "pdfs_novos/Machine learning-based prediction of osteoporosis in prefrail and frail older adults  insights from SHAP analysis of dietary antioxidants.pdf",
+   "au": "ShangGuan Y.",
+   "yr": 2026,
+   "doi": "10.1080/09581596.2026.2653303",
+   "title": "Machine learning-based prediction of osteoporosis in prefrail and frail older adults: insights from SHAP analysis of dietary antioxidants",
+   "journal": "Critical Public Health"
+  },
+  "119": {
+   "rid": 119,
+   "src": "pmc",
+   "loc": "PMC12790272",
+   "au": "Auriat A.M.",
+   "yr": 2026,
+   "doi": "10.1093/jbmrpl/ziaf191",
+   "title": "Evaluating an Artificial Intelligence software for opportunistic low bone mineral density and osteoporosis screening: a validation study",
+   "journal": "JBMR Plus"
+  },
+  "120": {
+   "rid": 120,
+   "src": "pmc",
+   "loc": "PMC13089444",
+   "au": "Qiu C.",
+   "yr": 2026,
+   "doi": "10.1093/jbmrpl/ziag042",
+   "title": "A metabolomics-driven machine learning model for osteoporosis risk prediction",
+   "journal": "JBMR Plus"
+  },
+  "124": {
+   "rid": 124,
+   "src": "pmc",
+   "loc": "PMC13008175",
+   "au": "Zhu Q.",
+   "yr": 2026,
+   "doi": "10.1097/md.0000000000048107",
+   "title": "Artificial intelligence models for osteoporosis risk prediction in postmenopausal women with CKD: A cross-sectional analysis of NHANES 2005 to 2018",
+   "journal": "Medicine (United States)"
+  },
+  "158": {
+   "rid": 158,
+   "src": "pdf",
+   "loc": "pdfs_novos/OPDoctorNet_Deep_learning_revolutionizes_op-portun.pdf",
+   "au": "Jin Q.",
+   "yr": 2026,
+   "doi": "10.1109/jbhi.2025.3597467",
+   "title": "OPDoctorNet: Deep Learning Revolutionizes Opportunistic Screening of Osteoporosis Based on Clinical Data",
+   "journal": "IEEE Journal of Biomedical and Health In"
+  },
+  "178": {
+   "rid": 178,
+   "src": "pmc",
+   "loc": "PMC13288052",
+   "au": "Chen Y.-H.",
+   "yr": 2026,
+   "doi": "10.1155/joos/6485124",
+   "title": "Sex-Specific Biological Predictors for Identifying Individuals With Low Bone Mineral Density Using the Taiwan Biobank Database",
+   "journal": "Journal of Osteoporosis"
+  },
+  "185": {
+   "rid": 185,
+   "src": "pdf",
+   "loc": "s12879-026-13670-3_reference.pdf",
+   "au": "Qin C",
+   "yr": 2026,
+   "doi": "10.1186/s12879-026-13670-3",
+   "title": "Development and internal validation of a diagnostic prediction model for osteoporosis in elderly people living with HIV receiving antiretroviral thera",
+   "journal": "BMC Infect Dis"
+  },
+  "189": {
+   "rid": 189,
+   "src": "pmc",
+   "loc": "PMC12905921",
+   "au": "Lin K.",
+   "yr": 2026,
+   "doi": "10.1186/s12891-026-09526-1",
+   "title": "Elucidating osteoporosis response signatures in rheumatoid arthritis using explainable machine learning ensembles",
+   "journal": "BMC Musculoskeletal Disorders"
+  },
+  "194": {
+   "rid": 194,
+   "src": "pmc",
+   "loc": "PMC13147576",
+   "au": "Wang Q.",
+   "yr": 2026,
+   "doi": "10.1186/s12911-026-03350-2",
+   "title": "An intelligent auxiliary diagnostic system for early osteoporosis screening using stacking ensemble learning",
+   "journal": "BMC Medical Informatics and Decision Mak"
+  },
+  "196": {
+   "rid": 196,
+   "src": "pmc",
+   "loc": "PMC12875019",
+   "au": "Zhang Y.",
+   "yr": 2026,
+   "doi": "10.1186/s13040-026-00520-w",
+   "title": "An online non-radiographic osteoporosis prediction calculator constructed using interpretable machine learning",
+   "journal": "BioData Mining"
+  },
+  "209": {
+   "rid": 209,
+   "src": "pmc",
+   "loc": "PMC13005144",
+   "au": "Dai X.",
+   "yr": 2026,
+   "doi": "10.2147/cia.s566021",
+   "title": "Predicting Hip Osteoporosis with Routine Demographic and Biochemical Data: The Shao HipOsteoRisk Model",
+   "journal": "Clinical Interventions in Aging"
+  },
+  "215": {
+   "rid": 215,
+   "src": "pdf",
+   "loc": "pdfs_novos/Application_of_Artificial_Intelligence_for_Osteopo.pdf",
+   "au": "Santanapipatkul P.",
+   "yr": 2026,
+   "doi": "10.33192/smj.v78i1.277295",
+   "title": "Application of Artificial Intelligence for Osteoporosis Screening Using Chest Radiographs",
+   "journal": "Siriraj Medical Journal"
+  },
+  "216": {
+   "rid": 216,
+   "src": "pmc",
+   "loc": "PMC12827086",
+   "au": "Tang T.",
+   "yr": 2026,
+   "doi": "10.3389/fendo.2025.1719698",
+   "title": "Development and external validation of models to improve prediction of osteoporosis in elderly women: interpretable machine learning",
+   "journal": "Frontiers in Endocrinology"
+  },
+  "219": {
+   "rid": 219,
+   "src": "pmc",
+   "loc": "PMC13259727",
+   "au": "Zhuo",
+   "yr": 2026,
+   "doi": "10.3389/fendo.2026.1817729",
+   "title": "An explainable predictive machine learning model of osteopenia for perimenopausal women based on clinical data: a retrospective single-center study",
+   "journal": "FRONTIERS IN ENDOCRINOLOGY"
+  },
+  "220": {
+   "rid": 220,
+   "src": "pmc",
+   "loc": "PMC13167201",
+   "au": "Xue",
+   "yr": 2026,
+   "doi": "10.3389/fendo.2026.1823826",
+   "title": "Sequence-specific radiomics for diagnosis of spinal bone loss",
+   "journal": "FRONTIERS IN ENDOCRINOLOGY"
+  },
+  "221": {
+   "rid": 221,
+   "src": "pdf",
+   "loc": "fendo-17-1838830.pdf",
+   "au": "Lin X",
+   "yr": 2026,
+   "doi": "10.3389/fendo.2026.1838830",
+   "title": "Screening opportunistic osteoporosis through multimodal techniques of hip joint CT images: exploring 2D and 3D deep learning, radiomics, clinical data",
+   "journal": "Front Endocrinol (Lausanne)"
+  },
+  "222": {
+   "rid": 222,
+   "src": "pmc",
+   "loc": "PMC13368566",
+   "au": "Cheng",
+   "yr": 2026,
+   "doi": "10.3389/fendo.2026.1871923",
+   "title": "Development and validation of a multimodal interpretable machine learning model for the identification of osteoporosis in patients with type 2 diabete",
+   "journal": "FRONTIERS IN ENDOCRINOLOGY"
+  },
+  "225": {
+   "rid": 225,
+   "src": "pmc",
+   "loc": "PMC13396252",
+   "au": "Dong J.",
+   "yr": 2026,
+   "doi": "10.3389/fimmu.2026.1812285",
+   "title": "Immune-inflammatory and metabolic signatures for osteoporosis risk stratification in primary Sjögren's syndrome: development and internal validation o",
+   "journal": "Frontiers in immunology"
+  },
+  "230": {
+   "rid": 230,
+   "src": "pmc",
+   "loc": "PMC12876128",
+   "au": "Gao C.",
+   "yr": 2026,
+   "doi": "10.3389/fmed.2026.1758313",
+   "title": "CT-based machine learning radiomics modeling to screen for lumbar spine osteoporosis",
+   "journal": "Frontiers in Medicine"
+  },
+  "244": {
+   "rid": 244,
+   "src": "pmc",
+   "loc": "PMC12897251",
+   "au": "Ho U.-C.",
+   "yr": 2026,
+   "doi": "10.3390/diagnostics16030423",
+   "title": "Lumbar MRI-Based Deep Learning for Osteoporosis Prediction",
+   "journal": "Diagnostics"
+  },
+  "248": {
+   "rid": 248,
+   "src": "pmc",
+   "loc": "PMC12842224",
+   "au": "Waratamrongpatai W.",
+   "yr": 2026,
+   "doi": "10.3390/jcm15020677",
+   "title": "Stability-Driven Osteoporosis Screening: Multi-View Consensus Feature Selection with External Validation and Sensitivity Analysis",
+   "journal": "Journal of Clinical Medicine"
+  },
+  "249": {
+   "rid": 249,
+   "src": "pmc",
+   "loc": "PMC13301623",
+   "au": "Semet",
+   "yr": 2026,
+   "doi": "10.3390/jcm15124442",
+   "title": "A Nomogram for Predicting Tenofovir-Associated Osteoporosis in Chronic Hepatitis B",
+   "journal": "JOURNAL OF CLINICAL MEDICINE"
+  },
+  "251": {
+   "rid": 251,
+   "src": "pmc",
+   "loc": "PMC13362901",
+   "au": "Sinnathakorn N.",
+   "yr": 2026,
+   "doi": "10.3390/jcm15135222",
+   "title": "Opportunistic Osteoporosis Screening from Routine Knee Radiographs Using a Multi-Stage CNN Framework with External Validation",
+   "journal": "Journal of Clinical Medicine"
+  },
+  "255": {
+   "rid": 255,
+   "src": "pmc",
+   "loc": "PMC13307040",
+   "au": "Yuk",
+   "yr": 2026,
+   "doi": "10.3390/tomography12060089",
+   "title": "Opportunistic Screening for Low Bone Density Using Automated Vertebral Trabecular CT Attenuation from Low-Dose CT Acquired During FDG PET/CT: A Single",
+   "journal": "TOMOGRAPHY"
+  },
+  "260": {
+   "rid": 260,
+   "src": "pdf",
+   "loc": "predicting-osteoporosis-risk-from-knee-radiographs-and.pdf",
+   "au": "Mukhopadhyay K",
+   "yr": 2026,
+   "doi": "10.4103/aam.aam_857_25",
+   "title": "Predicting Osteoporosis Risk from Knee Radiographs and Clinical Features through Deep Learning: A Multimodal Approach",
+   "journal": "Ann Afr Med"
+  },
+  "267": {
+   "rid": 267,
+   "src": "pmc",
+   "loc": "PMC12951883",
+   "au": "Wu Z.",
+   "yr": 2026,
+   "doi": "10.7717/peerj.20852",
+   "title": "Application of a machine learning model based on routine clinical parameters for the diagnosis of rheumatoid arthritis with concomitant osteoporosis: ",
+   "journal": "PeerJ"
+  },
+  "309": {
+   "rid": 309,
+   "src": "pdf",
+   "loc": "s10916-025-02203-1.pdf",
+   "au": "Zhang D.",
+   "yr": 2025,
+   "doi": "10.1007/s10916-025-02203-1",
+   "title": "Comparative Analysis of Feature Extraction Methods and Machine Learning Models for Predicting Osteoporosis Prevalence",
+   "journal": "Journal of Medical Systems"
+  },
+  "310": {
+   "rid": 310,
+   "src": "pdf",
+   "loc": "s10916-025-02333-6.pdf",
+   "au": "Hsing S.-C.",
+   "yr": 2025,
+   "doi": "10.1007/s10916-025-02333-6",
+   "title": "Artificial Intelligence-Enabled Electrocardiography Identifies Osteoporosis and has Prognostic Value",
+   "journal": "Journal of Medical Systems"
+  },
+  "313": {
+   "rid": 313,
+   "src": "pmc",
+   "loc": "PMC12263710",
+   "au": "Adarve-Castro A.",
+   "yr": 2025,
+   "doi": "10.1007/s11547-025-02004-z",
+   "title": "Advanced radiomic prediction of osteoporosis in primary hyperparathyroidism: a machine learning-based analysis of CT images",
+   "journal": "Radiologia Medica"
+  },
+  "318": {
+   "rid": 318,
+   "src": "pdf",
+   "loc": "s11657-025-01609-1.pdf",
+   "au": "Park J.",
+   "yr": 2025,
+   "doi": "10.1007/s11657-025-01609-1",
+   "title": "Opportunistic screening of low bone mass using knowledge distillation-based deep learning in chest X-rays with external validations",
+   "journal": "Archives of Osteoporosis"
+  },
+  "326": {
+   "rid": 326,
+   "src": "pdf",
+   "loc": "pdfs_novos/1-s2.0-S1076633224009371-main.pdf",
+   "au": "Li Y.",
+   "yr": 2025,
+   "doi": "10.1016/j.acra.2024.11.062",
+   "title": "Deep Learning-enhanced Opportunistic Osteoporosis Screening in Ultralow-Voltage (80 kV) Chest CT: A Preliminary Study",
+   "journal": "Academic Radiology"
+  },
+  "330": {
+   "rid": 330,
+   "src": "pdf",
+   "loc": "pdfs_novos/1-s2.0-S1076633225007305-main.pdf",
+   "au": "Li Y.",
+   "yr": 2025,
+   "doi": "10.1016/j.acra.2025.07.060",
+   "title": "Deep Learning-Enhanced Opportunistic Osteoporosis Screening in 100 kV Low-Voltage Chest CT: A Novel Way Toward Bone Mineral Density Measurement and Ra",
+   "journal": "Academic Radiology"
+  },
+  "331": {
+   "rid": 331,
+   "src": "pdf",
+   "loc": "pdfs_novos/1-s2.0-S1076633225008852-main.pdf",
+   "au": "Li Y.",
+   "yr": 2025,
+   "doi": "10.1016/j.acra.2025.09.015",
+   "title": "Deep Learning-based Automated Opportunistic Osteoporosis Screening Using Chest LDCT and Lumbar CT: A Multicenter Cohort Study",
+   "journal": "Academic Radiology"
+  },
+  "337": {
+   "rid": 337,
+   "src": "pdf",
+   "loc": "pdfs_novos/1-s2.0-S8756328224003107-main.pdf",
+   "au": "Li Y.",
+   "yr": 2025,
+   "doi": "10.1016/j.bone.2024.117321",
+   "title": "Utilizing artificial intelligence to determine bone mineral density using spectral CT",
+   "journal": "Bone"
+  },
+  "340": {
+   "rid": 340,
+   "src": "pmc",
+   "loc": "PMC11783436",
+   "au": "Huang W.-C.",
+   "yr": 2025,
+   "doi": "10.1016/j.bonr.2025.101826",
+   "title": "A simple and user-friendly machine learning model to detect osteoporosis in health examination populations in Southern Taiwan",
+   "journal": "Bone Reports"
+  },
+  "344": {
+   "rid": 344,
+   "src": "pdf",
+   "loc": "1-s2.0-S1746809424010899-main.pdf",
+   "au": "Dias B.S.S.",
+   "yr": 2025,
+   "doi": "10.1016/j.bspc.2024.107031",
+   "title": "Osteoporosis screening: Leveraging EfficientNet with complete and cropped facial panoramic radiography imaging",
+   "journal": "Biomedical Signal Processing and Control"
+  },
+  "348": {
+   "rid": 348,
+   "src": "pdf",
+   "loc": "1-s2.0-S0169260725002652-main.pdf",
+   "au": "Su",
+   "yr": 2025,
+   "doi": "10.1016/j.cmpb.2025.108848",
+   "title": "The knowledge distillation-assisted multimodal model for osteoporosis screening",
+   "journal": "COMPUTER METHODS AND PROGRAMS IN BIOMEDI"
+  },
+  "355": {
+   "rid": 355,
+   "src": "pdf",
+   "loc": "pdfs_novos/1-s2.0-S0720048X2500066X-main.pdf",
+   "au": "Gharehmohammadi F.",
+   "yr": 2025,
+   "doi": "10.1016/j.ejrad.2025.111980",
+   "title": "Deep learning opportunistic screening for osteoporosis and osteopenia using radiographs of the foot or ankle – A pilot study",
+   "journal": "European Journal of Radiology"
+  },
+  "360": {
+   "rid": 360,
+   "src": "pdf",
+   "loc": "1-s2.0-S1386505625001066-main.pdf",
+   "au": "Jin W.",
+   "yr": 2025,
+   "doi": "10.1016/j.ijmedinf.2025.105889",
+   "title": "Development and validation of explainable machine learning models for female hip osteoporosis using electronic health records",
+   "journal": "International Journal of Medical Informa"
+  },
+  "542": {
+   "rid": 542,
+   "src": "pmc",
+   "loc": "PMC11954202",
+   "au": "Peng Y.",
+   "yr": 2025,
+   "doi": "10.1186/s12877-025-05840-w",
+   "title": "A cross-sectional study comparing machine learning and logistic regression techniques for predicting osteoporosis in a group at high risk of cardiovas",
+   "journal": "BMC Geriatrics"
+  },
+  "546": {
+   "rid": 546,
+   "src": "pmc",
+   "loc": "PMC12004748",
+   "au": "Du C.",
+   "yr": 2025,
+   "doi": "10.1186/s12891-025-08631-x",
+   "title": "Automated opportunistic screening for osteoporosis using deep learning-based automatic segmentation and radiomics on proximal femur images from low-do",
+   "journal": "BMC Musculoskeletal Disorders"
+  },
+  "547": {
+   "rid": 547,
+   "src": "pmc",
+   "loc": "PMC12085013",
+   "au": "Al-Husaini N.",
+   "yr": 2025,
+   "doi": "10.1186/s12891-025-08726-5",
+   "title": "Characterizing low femoral neck BMD in Qatar Biobank participants using machine learning models",
+   "journal": "BMC Musculoskeletal Disorders"
+  },
+  "556": {
+   "rid": 556,
+   "src": "pmc",
+   "loc": "PMC11723875",
+   "au": "Huang C.",
+   "yr": 2025,
+   "doi": "10.1186/s13244-024-01817-2",
+   "title": "Application of deep learning model based on unenhanced chest CT for opportunistic screening of osteoporosis: a multicenter retrospective cohort study",
+   "journal": "Insights into Imaging"
+  },
+  "576": {
+   "rid": 576,
+   "src": "pmc",
+   "loc": "PMC12688546",
+   "au": "Koo B.",
+   "yr": 2025,
+   "doi": "10.21037/jtd-2025-1077",
+   "title": "Performance evaluation of deep learning-based osteoporosis diagnostic models with conventional chest X-ray in a clinical cohort",
+   "journal": "Journal of Thoracic Disease"
+  },
+  "581": {
+   "rid": 581,
+   "src": "pmc",
+   "loc": "PMC12445622",
+   "au": "Tang J.",
+   "yr": 2025,
+   "doi": "10.2196/70738",
+   "title": "Fusion of X-Ray Images and Clinical Data for a Multimodal Deep Learning Prediction Model of Osteoporosis: Algorithm Development and Validation Study",
+   "journal": "JMIR Medical Informatics"
+  },
+  "598": {
+   "rid": 598,
+   "src": "pmc",
+   "loc": "PMC11979151",
+   "au": "Yoshida A.",
+   "yr": 2025,
+   "doi": "10.3389/fmed.2025.1499670",
+   "title": "Utility of osteoporosis screening based on estimation of bone mineral density using bidirectional chest radiographs with deep learning models",
+   "journal": "Frontiers in Medicine"
+  },
+  "599": {
+   "rid": 599,
+   "src": "pmc",
+   "loc": "PMC12463994",
+   "au": "Wang J.",
+   "yr": 2025,
+   "doi": "10.3389/fmed.2025.1607734",
+   "title": "Construction of a clinical prediction model for osteoporosis in asymptomatic elderly population based on machine learning algorithm",
+   "journal": "Frontiers in Medicine"
+  },
+  "605": {
+   "rid": 605,
+   "src": "pmc",
+   "loc": "PMC12006115",
+   "au": "Chen L.",
+   "yr": 2025,
+   "doi": "10.3389/fphar.2025.1516013",
+   "title": "Bone loss in young adults with HIV following antiretroviral therapy containing tenofovir disoproxil fumarate regimen using machine learning",
+   "journal": "Frontiers in Pharmacology"
+  },
+  "607": {
+   "rid": 607,
+   "src": "pmc",
+   "loc": "PMC12727551",
+   "au": "Liu B.",
+   "yr": 2025,
+   "doi": "10.3389/fphys.2025.1729997",
+   "title": "The critical role of inflammation in osteoporosis prediction unveiled by a machine learning framework integrating multi-source data",
+   "journal": "Frontiers in Physiology"
+  },
+  "630": {
+   "rid": 630,
+   "src": "pmc",
+   "loc": "PMC12576511",
+   "au": "Karaismailoǧlu E.",
+   "yr": 2025,
+   "doi": "10.4274/balkanmedj.galenos.2025.2025-8-125",
+   "title": "Risk Prediction of Low Bone Density in Elderly Patients with Supervised Machine Learning Algorithms",
+   "journal": "Balkan Medical Journal"
+  },
+  "631": {
+   "rid": 631,
+   "src": "pdf",
+   "loc": "pdfs_novos/52-60.pdf",
+   "au": "Güngör C.",
+   "yr": 2025,
+   "doi": "10.4274/tod.galenos.2024.03708",
+   "title": "Opportunistic Prediction of Osteoporosis with Machine Learning Models Based on Clivus-radiomic Features Obtained from CT Images; [Klivusa Ait BT Taban",
+   "journal": "Turk Osteoporoz Dergisi"
+  },
+  "641": {
+   "rid": 641,
+   "src": "pdf",
+   "loc": "20250905-88146-lud5mf.pdf",
+   "au": "Imoto Y",
+   "yr": 2025,
+   "doi": "10.7759/cureus.89446",
+   "title": "Deep Learning Model for Osteoporosis Screening From Chest Radiographs: A Multicenter Analysis of External Robustness and Model Calibration",
+   "journal": "Cureus"
+  },
+  "664": {
+   "rid": 664,
+   "src": "pdf",
+   "loc": "pdfs_novos/Application-of-radiomics-model-based-on-lumbar-computed-tomography-in-diagnosis-of-elderly.pdf",
+   "au": "Chen",
+   "yr": 2024,
+   "doi": "10.1002/jor.25789",
+   "title": "Application of radiomics model based on lumbar computed tomography in diagnosis of elderly osteoporosis",
+   "journal": "JOURNAL OF ORTHOPAEDIC RESEARCH"
+  },
+  "674": {
+   "rid": 674,
+   "src": "pdf",
+   "loc": "s00590-024-04032-3.pdf",
+   "au": "Boonrod A.",
+   "yr": 2024,
+   "doi": "10.1007/s00590-024-04032-3",
+   "title": "Deep learning for osteoporosis screening using an anteroposterior hip radiograph image",
+   "journal": "European Journal of Orthopaedic Surgery "
+  },
+  "677": {
+   "rid": 677,
+   "src": "pmc",
+   "loc": "PMC10808164",
+   "au": "Miura K.",
+   "yr": 2024,
+   "doi": "10.1007/s10439-023-03387-8",
+   "title": "Osteoporosis Prediction Using Machine-Learned Optical Bone Densitometry Data",
+   "journal": "Annals of Biomedical Engineering"
+  },
+  "680": {
+   "rid": 680,
+   "src": "pmc",
+   "loc": "PMC11485148",
+   "au": "Pan J.",
+   "yr": 2024,
+   "doi": "10.1007/s11657-024-01455-7",
+   "title": "Feasibility study of opportunistic osteoporosis screening on chest CT using a multi-feature fusion DCNN model",
+   "journal": "Archives of Osteoporosis"
+  },
+  "691": {
+   "rid": 691,
+   "src": "pdf",
+   "loc": "pdfs_novos/1-s2.0-S107663322300449X-main.pdf",
+   "au": "Wang S.",
+   "yr": 2024,
+   "doi": "10.1016/j.acra.2023.08.030",
+   "title": "Combining Deep Learning and Radiomics for Automated, Objective, Comprehensive Bone Mineral Density Assessment From Low-Dose Chest Computed Tomography",
+   "journal": "Academic Radiology"
+  },
+  "692": {
+   "rid": 692,
+   "src": "pdf",
+   "loc": "pdfs_novos/1-s2.0-S1076633223005445-main.pdf",
+   "au": "Fang K.",
+   "yr": 2024,
+   "doi": "10.1016/j.acra.2023.10.009",
+   "title": "Unveiling Osteoporosis Through Radiomics Analysis of Hip CT Imaging",
+   "journal": "Academic Radiology"
+  },
+  "702": {
+   "rid": 702,
+   "src": "pdf",
+   "loc": "1-s2.0-S0010482523013811-main.pdf",
+   "au": "Zhang K.",
+   "yr": 2024,
+   "doi": "10.1016/j.compbiomed.2023.107916",
+   "title": "DeepmdQCT: A multitask network with domain invariant features and comprehensive attention mechanism for quantitative computer tomography diagnosis of ",
+   "journal": "Computers in Biology and Medicine"
+  },
+  "722": {
+   "rid": 722,
+   "src": "pdf",
+   "loc": "PIIS1529943024001876.pdf",
+   "au": "Nian S.",
+   "yr": 2024,
+   "doi": "10.1016/j.spinee.2024.04.016",
+   "title": "Development and validation of a radiomics-based model for predicting osteoporosis in patients with lumbar compression fractures",
+   "journal": "Spine Journal"
+  },
+  "738": {
+   "rid": 738,
+   "src": "pmc",
+   "loc": "PMC11256955",
+   "au": "Sebro R.",
+   "yr": 2024,
+   "doi": "10.1093/bjr/tqae109",
+   "title": "Can we screen opportunistically for low bone mineral density using CT scans of the shoulder and artificial intelligence?",
+   "journal": "British Journal of Radiology"
+  },
+  "816": {
+   "rid": 816,
+   "src": "pdf",
+   "loc": "pdfs_novos/Prediction-models-incorporating-second-metacarpal-cortical-index-for-osteoporosis-in-rheumatoid.pdf",
+   "au": "Saito R.",
+   "yr": 2024,
+   "doi": "10.1111/1756-185x.15358",
+   "title": "Prediction models incorporating second metacarpal cortical index for osteoporosis in rheumatoid arthritis: Externally validated machine learning model",
+   "journal": "International Journal of Rheumatic Disea"
+  },
+  "823": {
+   "rid": 823,
+   "src": "pdf",
+   "loc": "pdfs_novos/baik-et-al-2024-machine-learning-model-for-osteoporosis-diagnosis-based-on-bone-turnover-markers.pdf",
+   "au": "Baik S.M.",
+   "yr": 2024,
+   "doi": "10.1177/14604582241270778",
+   "title": "Machine learning model for osteoporosis diagnosis based on bone turnover markers",
+   "journal": "Health Informatics Journal"
+  },
+  "824": {
+   "rid": 824,
+   "src": "pmc",
+   "loc": "PMC11044771",
+   "au": "Chen Y.-P.",
+   "yr": 2024,
+   "doi": "10.1177/1759720x241237872",
+   "title": "Automated osteoporosis classification and T-score prediction using hip radiographs via deep learning algorithm",
+   "journal": "Therapeutic Advances in Musculoskeletal "
+  },
+  "826": {
+   "rid": 826,
+   "src": "pmc",
+   "loc": "PMC10898023",
+   "au": "Pan J.",
+   "yr": 2024,
+   "doi": "10.1186/s12891-024-07297-1",
+   "title": "Effectiveness of opportunistic osteoporosis screening on chest CT using the DCNN model",
+   "journal": "BMC Musculoskeletal Disorders"
+  },
+  "841": {
+   "rid": 841,
+   "src": "pmc",
+   "loc": "PMC11007525",
+   "au": "Wang S.",
+   "yr": 2024,
+   "doi": "10.21037/qims-23-1617",
+   "title": "Fully automated deep learning system for osteoporosis screening using chest computed tomography images",
+   "journal": "Quantitative Imaging in Medicine and Sur"
+  },
+  "842": {
+   "rid": 842,
+   "src": "pmc",
+   "loc": "PMC11151236",
+   "au": "Park M.S.",
+   "yr": 2024,
+   "doi": "10.21037/qims-23-1751",
+   "title": "Femoral osteoporosis prediction model using autosegmentation and machine learning analysis with PyRadiomics on abdomenpelvic computed tomography (CT)",
+   "journal": "Quantitative Imaging in Medicine and Sur"
+  },
+  "851": {
+   "rid": 851,
+   "src": "user",
+   "loc": null,
+   "au": "Li B.",
+   "yr": 2024,
+   "doi": "10.23812/j.biol.regul.homeost.agents.20243802.106",
+   "title": "Investigating the Correlation of Various Biochemical Indicators with Bone Mineral Density and the Application of Machine Learning Algorithm in the Con",
+   "journal": "Journal of Biological Regulators and Hom"
+  },
+  "853": {
+   "rid": 853,
+   "src": "pdf",
+   "loc": "pdfs_novos/SHTI-316-SHTI240411.pdf",
+   "au": "Mohammadi F.G.",
+   "yr": 2024,
+   "doi": "10.3233/shti240411",
+   "title": "Opportunistic Screening for Osteoporosis Using Hand Radiographs - A Feature Augmentation Study Technique (FAST)",
+   "journal": "Studies in Health Technology and Informa"
+  },
+  "859": {
+   "rid": 859,
+   "src": "pmc",
+   "loc": "PMC11183288",
+   "au": "Fang K.",
+   "yr": 2024,
+   "doi": "10.3389/fendo.2024.1296047",
+   "title": "A comprehensive approach for osteoporosis detection through chest CT analysis and bone turnover markers: harnessing radiomics and deep learning techni",
+   "journal": "Frontiers in Endocrinology"
+  },
+  "863": {
+   "rid": 863,
+   "src": "pmc",
+   "loc": "PMC11080984",
+   "au": "Xu R.",
+   "yr": 2024,
+   "doi": "10.3389/fpubh.2024.1347219",
+   "title": "Application of machine learning algorithms to identify people with low bone density",
+   "journal": "Frontiers in Public Health"
+  },
+  "865": {
+   "rid": 865,
+   "src": "pmc",
+   "loc": "PMC11196804",
+   "au": "Qiu C.",
+   "yr": 2024,
+   "doi": "10.3389/frai.2024.1355287",
+   "title": "Developing and comparing deep learning and machine learning algorithms for osteoporosis risk prediction",
+   "journal": "Frontiers in Artificial Intelligence"
+  },
+  "866": {
+   "rid": 866,
+   "src": "pdf",
+   "loc": "pdfs_novos/applsci-14-00133-v2.pdf",
+   "au": "Feng S.-W.",
+   "yr": 2024,
+   "doi": "10.3390/app14010133",
+   "title": "Deep Learning-Based Hip X-ray Image Analysis for Predicting Osteoporosis",
+   "journal": "Applied Sciences (Switzerland)"
+  },
+  "869": {
+   "rid": 869,
+   "src": "pmc",
+   "loc": "PMC10813496",
+   "au": "Tong X.",
+   "yr": 2024,
+   "doi": "10.3390/bioengineering11010050",
+   "title": "Automatic Osteoporosis Screening System Using Radiomics and Deep Learning from Low-Dose Chest CT Images",
+   "journal": "Bioengineering"
+  },
+  "875": {
+   "rid": 875,
+   "src": "pmc",
+   "loc": "PMC11506735",
+   "au": "Gaudin R.",
+   "yr": 2024,
+   "doi": "10.3390/diagnostics14202298",
+   "title": "AI-Powered Identification of Osteoporosis in Dental Panoramic Radiographs: Addressing Methodological Flaws in Current Research",
+   "journal": "Diagnostics"
+  },
+  "879": {
+   "rid": 879,
+   "src": "pmc",
+   "loc": "PMC11478210",
+   "au": "Welsner M.",
+   "yr": 2024,
+   "doi": "10.3390/jcm13195961",
+   "title": "Opportunistic Screening for Low Bone Mineral Density in Adults with Cystic Fibrosis Using Low-Dose Computed Tomography of the Chest with Artificial In",
+   "journal": "Journal of Clinical Medicine"
+  },
+  "880": {
+   "rid": 880,
+   "src": "pmc",
+   "loc": "PMC11417815",
+   "au": "Gaudin R.",
+   "yr": 2024,
+   "doi": "10.3390/medsci12030049",
+   "title": "Enhanced Osteoporosis Detection Using Artificial Intelligence: A Deep Learning Approach to Panoramic Radiographs with an Emphasis on the Mental Forame",
+   "journal": "Medical sciences"
+  },
+  "889": {
+   "rid": 889,
+   "src": "pdf",
+   "loc": "pdfs_novos/147913.pdf",
+   "au": "Erdem F.",
+   "yr": 2024,
+   "doi": "10.5812/iranjradiol-147913",
+   "title": "The Use of Radiomics Data Obtained from ADC Map of Lumbar MRI and Machine Learning in Diagnosis of Osteoporosis",
+   "journal": "Iranian Journal of Radiology"
+  },
+  "902": {
+   "rid": 902,
+   "src": "pdf",
+   "loc": "pdfs_novos/Deep-Learning-Based_Detection_of_Vertebral_Fractur.pdf",
+   "au": "Hong N.",
+   "yr": 2023,
+   "doi": "10.1002/jbmr.4814",
+   "title": "Deep-Learning-Based Detection of Vertebral Fracture and Osteoporosis Using Lateral Spine X-Ray Radiography",
+   "journal": "Journal of Bone and Mineral Research"
+  },
+  "910": {
+   "rid": 910,
+   "src": "pdf",
+   "loc": "s00330-023-09421-6.pdf",
+   "au": "Chen Y.-C.",
+   "yr": 2023,
+   "doi": "10.1007/s00330-023-09421-6",
+   "title": "Automatic segmentation and radiomic texture analysis for osteoporosis screening using chest low-dose computed tomography",
+   "journal": "European Radiology"
+  },
+  "920": {
+   "rid": 920,
+   "src": "pdf",
+   "loc": "s40618-023-02109-0.pdf",
+   "au": "Wu X.",
+   "yr": 2023,
+   "doi": "10.1007/s40618-023-02109-0",
+   "title": "Application of machine learning algorithms to predict osteoporosis in postmenopausal women with type 2 diabetes mellitus",
+   "journal": "Journal of Endocrinological Investigatio"
+  },
+  "927": {
+   "rid": 927,
+   "src": "pdf",
+   "loc": "1-s2.0-S0933365723001537-main.pdf",
+   "au": "Xue L.",
+   "yr": 2023,
+   "doi": "10.1016/j.artmed.2023.102639",
+   "title": "Osteoporosis prediction in lumbar spine X-ray images using the multi-scale weighted fusion contextual transformer network",
+   "journal": "Artificial Intelligence in Medicine"
+  },
+  "935": {
+   "rid": 935,
+   "src": "pdf",
+   "loc": "PIIS0720048X23000426.pdf",
+   "au": "Breit",
+   "yr": 2023,
+   "doi": "10.1016/j.ejrad.2023.110728",
+   "title": "CNN-based evaluation of bone density improves diagnostic performance to detect osteopenia and osteoporosis in patients with non-contrast chest CT exam",
+   "journal": "EUROPEAN JOURNAL OF RADIOLOGY"
+  },
+  "943": {
+   "rid": 943,
+   "src": "pdf",
+   "loc": "1-s2.0-S015098612200147X-main.pdf",
+   "au": "Sebro R.",
+   "yr": 2023,
+   "doi": "10.1016/j.neurad.2022.08.001",
+   "title": "Utilizing machine learning for opportunistic screening for low BMD using CT scans of the cervical spine",
+   "journal": "Journal of Neuroradiology"
+  },
+  "1004": {
+   "rid": 1004,
+   "src": "pdf",
+   "loc": "pdfs_novos/Osteoporosisdetectionusingconvolutionalneuralnetworkbasedondual-energyX-rayabsorptiometryimages.pdf",
+   "au": "Mohammed A.Z.",
+   "yr": 2023,
+   "doi": "10.11591/ijeecs.v29.i1.pp315-321",
+   "title": "Osteoporosis detection using convolutional neural network based on dual-energy X-ray absorptiometry images",
+   "journal": "Indonesian Journal of Electrical Enginee"
+  },
+  "1015": {
+   "rid": 1015,
+   "src": "pmc",
+   "loc": "PMC10509772",
+   "au": "Uemura K.",
+   "yr": 2023,
+   "doi": "10.1302/2046-3758.129.bjr-2023-0115.r1",
+   "title": "Development and validation of an open-source tool for opportunistic screening of osteoporosis from hip CT images",
+   "journal": "Bone and Joint Research"
+  },
+  "1020": {
+   "rid": 1020,
+   "src": "pdf",
+   "loc": "pdfs_novos/jmai-06-7.pdf",
+   "au": "Golestan",
+   "yr": 2023,
+   "doi": "10.21037/jmai-23-10",
+   "title": "Approximating femoral neck bone mineral density from hand, knee, and pelvis X-rays using deep learning",
+   "journal": "JOURNAL OF MEDICAL ARTIFICIAL INTELLIGEN"
+  },
+  "1021": {
+   "rid": 1021,
+   "src": "pmc",
+   "loc": "PMC10423368",
+   "au": "Niu X.",
+   "yr": 2023,
+   "doi": "10.21037/qims-22-1438",
+   "title": "Development and validation of a fully automated system using deep learning for opportunistic osteoporosis screening using low-dose computed tomography",
+   "journal": "Quantitative Imaging in Medicine and Sur"
+  },
+  "1023": {
+   "rid": 1023,
+   "src": "pmc",
+   "loc": "PMC10319347",
+   "au": "Wu X.",
+   "yr": 2023,
+   "doi": "10.2147/dmso.s406695",
+   "title": "Development of Machine Learning Models for Predicting Osteoporosis in Patients with Type 2 Diabetes Mellitus—A Preliminary Study",
+   "journal": "Diabetes, Metabolic Syndrome and Obesity"
+  },
+  "1025": {
+   "rid": 1025,
+   "src": "pmc",
+   "loc": "PMC9883743",
+   "au": "Suh B.",
+   "yr": 2023,
+   "doi": "10.2196/40179",
+   "title": "Interpretable Deep-Learning Approaches for Osteoporosis Risk Screening and Individualized Feature Analysis Using Large Population-Based Data: Model De",
+   "journal": "Journal of Medical Internet Research"
+  },
+  "1026": {
+   "rid": 1026,
+   "src": "pmc",
+   "loc": "PMC10686208",
+   "au": "Yang Q.",
+   "yr": 2023,
+   "doi": "10.2196/46791",
+   "title": "A Machine Learning–Based Preclinical Osteoporosis Screening Tool (POST): Model Development and Validation Study",
+   "journal": "JMIR Aging"
+  },
+  "1030": {
+   "rid": 1030,
+   "src": "pdf",
+   "loc": "pdfs_novos/Opportunistic_Screening_for_Osteoporosis_Using_Han.pdf",
+   "au": "Mohammadi F.G.",
+   "yr": 2023,
+   "doi": "10.3233/shti230306",
+   "title": "Opportunistic Screening for Osteoporosis Using Hand Radiographs: A Preliminary Study",
+   "journal": "Studies in Health Technology and Informa"
+  },
+  "1031": {
+   "rid": 1031,
+   "src": "pmc",
+   "loc": "PMC10226854",
+   "au": "Wu X.",
+   "yr": 2023,
+   "doi": "10.3346/jkms.2023.38.e162",
+   "title": "A Prediction Model for Osteoporosis Risk Using a Machine-Learning Approach and Its Validation in a Large Cohort",
+   "journal": "Journal of Korean Medical Science"
+  },
+  "1041": {
+   "rid": 1041,
+   "src": "pdf",
+   "loc": "pdfs_novos/applsci-13-06305.pdf",
+   "au": "Vara",
+   "yr": 2023,
+   "doi": "10.3390/app13106305",
+   "title": "Assessment of Bone Mineral Density from Lumbosacral MRI: A Retrospective Study with Texture Analysis Radiomics",
+   "journal": "APPLIED SCIENCES-BASEL"
+  },
+  "1043": {
+   "rid": 1043,
+   "src": "pmc",
+   "loc": "PMC10045086",
+   "au": "Inui A.",
+   "yr": 2023,
+   "doi": "10.3390/bioengineering10030277",
+   "title": "Screening for Osteoporosis from Blood Test Data in Elderly Women Using a Machine Learning Approach",
+   "journal": "Bioengineering"
+  },
+  "1073": {
+   "rid": 1073,
+   "src": "pdf",
+   "loc": "s00198-022-06491-y.pdf",
+   "au": "Yang",
+   "yr": 2022,
+   "doi": "10.1007/s00198-022-06491-y",
+   "title": "Opportunistic osteoporosis screening using chest CT with artificial intelligence",
+   "journal": "OSTEOPOROSIS INTERNATIONAL"
+  },
+  "1091": {
+   "rid": 1091,
+   "src": "pdf",
+   "loc": "PIIS0301562922001545.pdf",
+   "au": "Luo",
+   "yr": 2022,
+   "doi": "10.1016/j.ultrasmedbio.2022.04.005",
+   "title": "OSTEOPOROSIS DIAGNOSTIC MODEL USING A MULTICHANNEL CONVOLUTIONAL NEURAL NETWORK BASED ON QUANTITATIVE ULTRASOUND RADIOFREQUENCY SIGNAL",
+   "journal": "ULTRASOUND IN MEDICINE AND BIOLOGY"
+  },
+  "1093": {
+   "rid": 1093,
+   "src": "pmc",
+   "loc": "PMC9005660",
+   "au": "Sukegawa S.",
+   "yr": 2022,
+   "doi": "10.1038/s41598-022-10150-x",
+   "title": "Identification of osteoporosis using ensemble deep learning model with panoramic radiographs and clinical covariates",
+   "journal": "Scientific Reports"
+  },
+  "1096": {
+   "rid": 1096,
+   "src": "pmc",
+   "loc": "PMC9684431",
+   "au": "Bui H.M.",
+   "yr": 2022,
+   "doi": "10.1038/s41598-022-24181-x",
+   "title": "Predicting the risk of osteoporosis in older Vietnamese women using machine learning approaches",
+   "journal": "Scientific Reports"
+  },
+  "1135": {
+   "rid": 1135,
+   "src": "pmc",
+   "loc": "PMC8829991",
+   "au": "Liu",
+   "yr": 2022,
+   "doi": "10.1186/s12859-022-04596-z",
+   "title": "A hierarchical opportunistic screening model for osteoporosis using machine learning applied to clinical data and CT images",
+   "journal": "BMC BIOINFORMATICS"
+  },
+  "1136": {
+   "rid": 1136,
+   "src": "pmc",
+   "loc": "PMC9563158",
+   "au": "Huang C.-B.",
+   "yr": 2022,
+   "doi": "10.1186/s12877-022-03502-9",
+   "title": "Application of machine learning model to predict osteoporosis based on abdominal computed tomography images of the psoas muscle: a retrospective study",
+   "journal": "BMC Geriatrics"
+  },
+  "1137": {
+   "rid": 1137,
+   "src": "pmc",
+   "loc": "PMC9358842",
+   "au": "Xie Q.",
+   "yr": 2022,
+   "doi": "10.1186/s12880-022-00868-5",
+   "title": "Development and validation of a machine learning-derived radiomics model for diagnosis of osteoporosis and osteopenia using quantitative computed tomo",
+   "journal": "BMC Medical Imaging"
+  },
+  "1146": {
+   "rid": 1146,
+   "src": "pmc",
+   "loc": "PMC8739149",
+   "au": "Zhao Y.",
+   "yr": 2022,
+   "doi": "10.21037/qims-21-587",
+   "title": "Fully automated radiomic screening pipeline for osteoporosis and abnormal bone density with a deep learning-based segmentation using a short lumbar mD",
+   "journal": "Quantitative Imaging in Medicine and Sur"
+  },
+  "1154": {
+   "rid": 1154,
+   "src": "pmc",
+   "loc": "PMC9513384",
+   "au": "Mao L.",
+   "yr": 2022,
+   "doi": "10.3389/fendo.2022.971877",
+   "title": "Deep learning for screening primary osteopenia and osteoporosis using spine radiographs and patient clinical covariates in a Chinese population",
+   "journal": "Frontiers in Endocrinology"
+  },
+  "1161": {
+   "rid": 1161,
+   "src": "pmc",
+   "loc": "PMC9222287",
+   "au": "Kwon",
+   "yr": 2022,
+   "doi": "10.3390/healthcare10061107",
+   "title": "Osteoporosis Pre-Screening Using Ensemble Machine Learning in Postmenopausal Korean Women",
+   "journal": "HEALTHCARE"
+  },
+  "1185": {
+   "rid": 1185,
+   "src": "pdf",
+   "loc": "s00223-021-00880-x.pdf",
+   "au": "Park H.W.",
+   "yr": 2021,
+   "doi": "10.1007/s00223-021-00880-x",
+   "title": "Application of Machine Learning to Identify Clinically Meaningful Risk Group for Osteoporosis in Individuals Under the Recommended Age for Dual-Energy",
+   "journal": "Calcified Tissue International"
+  },
+  "1204": {
+   "rid": 1204,
+   "src": "pmc",
+   "loc": "PMC8497544",
+   "au": "Jang R.",
+   "yr": 2021,
+   "doi": "10.1038/s41598-021-99549-6",
+   "title": "Prediction of osteoporosis from simple hip radiography using deep learning algorithm",
+   "journal": "Scientific Reports"
+  },
+  "1222": {
+   "rid": 1222,
+   "src": "pmc",
+   "loc": "PMC8428761",
+   "au": "Adams J.W.",
+   "yr": 2021,
+   "doi": "10.1109/jtehm.2021.3108575",
+   "title": "Application of a Neural Network Classifier to Radiofrequency-Based Osteopenia/Osteoporosis Screening",
+   "journal": "IEEE Journal of Translational Engineerin"
+  },
+  "1234": {
+   "rid": 1234,
+   "src": "pmc",
+   "loc": "PMC7932154",
+   "au": "Lim H.K.",
+   "yr": 2021,
+   "doi": "10.1371/journal.pone.0247330",
+   "title": "Prediction of femoral osteoporosis using machine-learning analysis with radiomics features and abdomen-pelvic CT: A retrospective single center prelim",
+   "journal": "PLoS ONE"
+  },
+  "1244": {
+   "rid": 1244,
+   "src": "pmc",
+   "loc": "PMC8305021",
+   "au": "Yang W.-Y.O.",
+   "yr": 2021,
+   "doi": "10.3390/ijerph18147635",
+   "title": "Development of machine learning models for prediction of osteoporosis from clinical health examination data",
+   "journal": "International Journal of Environmental R"
+  },
+  "1258": {
+   "rid": 1258,
+   "src": "pdf",
+   "loc": "s00256-019-03342-6.pdf",
+   "au": "Lee S.",
+   "yr": 2020,
+   "doi": "10.1007/s00256-019-03342-6",
+   "title": "The exploration of feature extraction and machine learning for predicting bone density from simple spine X-ray images in a Korean population",
+   "journal": "Skeletal Radiology"
+  },
+  "1260": {
+   "rid": 1260,
+   "src": "pmc",
+   "loc": "PMC7305250",
+   "au": "Pan Y.",
+   "yr": 2020,
+   "doi": "10.1007/s00330-020-06679-y",
+   "title": "Automatic opportunistic osteoporosis screening using low-dose chest computed tomography scans obtained for lung cancer screening",
+   "journal": "European Radiology"
+  },
+  "1261": {
+   "rid": 1261,
+   "src": "pdf",
+   "loc": "s11657-020-00802-8.pdf",
+   "au": "Shim J.-G.",
+   "yr": 2020,
+   "doi": "10.1007/s11657-020-00802-8",
+   "title": "Application of machine learning approaches for osteoporosis risk prediction in postmenopausal women",
+   "journal": "Archives of Osteoporosis"
+  },
+  "1264": {
+   "rid": 1264,
+   "src": "pdf",
+   "loc": "1-s2.0-S8756328221003094-main.pdf",
+   "au": "Zhang B.",
+   "yr": 2020,
+   "doi": "10.1016/j.bone.2020.115561",
+   "title": "Deep learning of lumbar spine X-ray for osteopenia and osteoporosis screening: A multicenter retrospective cohort study",
+   "journal": "Bone"
+  },
+  "1296": {
+   "rid": 1296,
+   "src": "pmc",
+   "loc": "PMC7074309",
+   "au": "Lee K.-S.",
+   "yr": 2020,
+   "doi": "10.3390/jcm9020392",
+   "title": "Evaluation of transfer learning with deep convolutional neural networks for screening osteoporosis in dental panoramic radiographs",
+   "journal": "Journal of Clinical Medicine"
+  }
+ },
+ "original": [
+  {
+   "au": "Peng T",
+   "yr": 2024,
+   "title": "A study on whether deep learning models based on CT images for bone density classification and prediction can be used for opportunistic osteoporosis screening",
+   "doi": "10.1007/s00198-023-06900-w",
+   "txt": "s00198_023_06900_w (1).txt"
+  },
+  {
+   "au": "Tsai DJ",
+   "yr": 2024,
+   "title": "Artificial Intelligence-enabled Chest X-ray Classifies Osteoporosis and Identifies Mortality Risk",
+   "doi": "10.1007/s10916-023-02030-2",
+   "txt": "s10916_023_02030_2 (1).txt"
+  },
+  {
+   "au": "Asamoto T",
+   "yr": 2024,
+   "title": "External validation of a deep learning model for predicting bone mineral density on chest radiographs",
+   "doi": "10.1007/s11657-024-01372-9",
+   "txt": "s11657_024_01372_9_1.txt"
+  },
+  {
+   "au": "Albuquerque GA",
+   "yr": 2023,
+   "title": "Osteoporosis screening using machine learning and electromagnetic waves",
+   "doi": "10.1038/s41598-023-40104-w",
+   "txt": "s41598_023_40104_w.txt"
+  },
+  {
+   "au": "Oh S",
+   "yr": 2024,
+   "title": "Evaluation of deep learning-based quantitative computed tomography for opportunistic osteoporosis screening",
+   "doi": "10.1038/s41598-023-45824-7",
+   "txt": "s41598_023_45824_7 (1).txt"
+  },
+  {
+   "au": "Kang SJ",
+   "yr": 2024,
+   "title": "Preventive machine learning models incorporating health checkup data and hair mineral analysis for low bone mass identification",
+   "doi": "10.1038/s41598-024-69090-3",
+   "txt": "s41598_024_69090_3 (2).txt"
+  },
+  {
+   "au": "Chang CY",
+   "yr": 2024,
+   "title": "The risk factors determined by four machine learning methods for the change of difference of bone mineral density in post-menopausal women after three years follow-up",
+   "doi": "10.1038/s41598-024-73799-6",
+   "txt": "s41598_024_73799_6 (1).txt"
+  },
+  {
+   "au": "Hsu CT",
+   "yr": 2025,
+   "title": "Machine learning models to predict osteoporosis in patients with chronic kidney disease stage 3-5 and end-stage kidney disease",
+   "doi": "10.1038/s41598-025-95928-5",
+   "txt": "s41598_025_95928_5 (1).txt"
+  },
+  {
+   "au": "Li",
+   "yr": 2025,
+   "title": "Machine learning-based prediction of osteoporosis in patients with chronic kidney disease",
+   "doi": "10.1177/20552076251357758",
+   "txt": "101177_20552076251357758 (1).txt"
+  },
+  {
+   "au": "Yasin",
+   "yr": 2025,
+   "title": "Machine learning based interpretable screening for osteoporosis",
+   "doi": "nr",
+   "txt": "IDR_520062_machine_learning_based_interpretable_screening_for_osteoporo (1).txt"
+  },
+  {
+   "au": "Huang",
+   "yr": 2024,
+   "title": "Interpretable machine learning model for low bone density screening in older adults",
+   "doi": "nr",
+   "txt": "Interpretable_machine_learning_model_for_low_bone_density_screening_in_older_adu (2).txt"
+  },
+  {
+   "au": "Jang JS",
+   "yr": 2021,
+   "title": "Opportunistic Osteoporosis Screening Using Chest Radiographs With Deep Learning",
+   "doi": "10.1002/jbmr.4413",
+   "txt": "J_of_Bone___Mineral_Res___2021___Jang___Opportunistic_Osteoporosis_Screening_Using_Chest_Radiographs_With_Deep_Learning (1).txt"
+  },
+  {
+   "au": "Wei",
+   "yr": 2025,
+   "title": "T2DM osteoporosis prediction with SHAP interpretability",
+   "doi": "10.3389/fendo.2025.1611499",
+   "txt": "fendo_16_1611499 (1).txt"
+  },
+  {
+   "au": "Zhang Y",
+   "yr": 2025,
+   "title": "A machine-learning-based osteoporosis screening tool integrating SHAP method",
+   "doi": "10.1007/s11657-025-01602-8",
+   "txt": "full_text (27).txt"
+  },
+  {
+   "au": "Usategui-Martin R",
+   "yr": 2025,
+   "title": "Assessment of the risk of osteoporotic bone fracture in postmenopausal women using machine learning methods",
+   "doi": "10.1038/s41598-025-27226-z",
+   "txt": "full_text (28).txt"
+  },
+  {
+   "au": "Wang P",
+   "yr": 2025,
+   "title": "Comparing machine learning models for osteoporosis prediction in Tibetan middle aged and elderly women",
+   "doi": "10.1038/s41598-025-95707-2",
+   "txt": "full_text (31).txt"
+  },
+  {
+   "au": "Cai Z",
+   "yr": 2025,
+   "title": "Construction and validation of a multi-dimensional health indicator-driven osteoporosis risk prediction model",
+   "doi": "10.1186/s12891-025-09229-z",
+   "txt": "full_text (32).txt"
+  },
+  {
+   "au": "Yu X",
+   "yr": 2025,
+   "title": "Construction of a novel online calculator for prediction of osteoporosis risk in Chinese type 2 diabetes patients",
+   "doi": "10.1016/j.exger.2025.112819",
+   "txt": "full_text (33).txt"
+  },
+  {
+   "au": "Wei Q",
+   "yr": 2025,
+   "title": "Development and validation of an interpretable machine learning model for osteoporosis prediction using routine blood tests",
+   "doi": "10.1186/s12911-025-03292-1",
+   "txt": "full_text (34).txt"
+  },
+  {
+   "au": "Shao Z",
+   "yr": 2025,
+   "title": "Development of a machine learning-based predictive model for osteoporosis risk and its application in clinical decision support",
+   "doi": "10.3389/fmed.2025.1680731",
+   "txt": "full_text (35).txt"
+  },
+  {
+   "au": "Hung WC",
+   "yr": 2023,
+   "title": "Establish and validate the reliability of predictive models in bone mineral density by deep learning as examination tool for women",
+   "doi": "10.1007/s00198-023-06913-5",
+   "txt": "full_text (37).txt"
+  },
+  {
+   "au": "Ho CS",
+   "yr": 2024,
+   "title": "HarDNet-based deep learning model for osteoporosis screening and BMD inference from hand radiographs",
+   "doi": "10.1016/j.bone.2024.117317",
+   "txt": "full_text (38).txt"
+  },
+  {
+   "au": "Wu Q",
+   "yr": 2021,
+   "title": "Machine learning approaches for the prediction of bone mineral density by using genomic and phenotypic data of 5130 older men",
+   "doi": "10.1038/s41598-021-83828-3",
+   "txt": "full_text (39).txt"
+  },
+  {
+   "au": "Yang",
+   "yr": 2025,
+   "title": "Machine learning-driven clinical decision support for low bone mineral density: web-based prediction model with explainable AI",
+   "doi": "10.1016/j.bone.2025.117592",
+   "txt": "full_text (40).txt"
+  },
+  {
+   "au": "Yen HK",
+   "yr": 2024,
+   "title": "Predicting osteoporosis from kidney-ureter-bladder radiographs utilizing deep convolutional neural networks",
+   "doi": "10.1016/j.bone.2024.117107",
+   "txt": "full_text (42).txt"
+  },
+  {
+   "au": "Si W",
+   "yr": 2025,
+   "title": "PrOsteoporosis: predicting osteoporosis risk using NHANES data and machine learning approach",
+   "doi": "10.1186/s13104-025-07089-3",
+   "txt": "full_text (43).txt"
+  },
+  {
+   "au": "ShangGuan H",
+   "yr": 2025,
+   "title": "Multidimensional dietary assessment and interpretable ML models predict risk of prediabetes/diabetes and osteoporosis comorbidity in older adults",
+   "doi": "10.3389/fnut.2025.1666477",
+   "txt": "full_text (41).txt"
+  },
+  {
+   "au": "Nicolaes L",
+   "yr": 2023,
+   "title": "Towards Improved Identification of Vertebral Fractures in Routine CT Scans: Development and External Validation of a ML Algorithm",
+   "doi": "10.1002/jbmr.4916",
+   "txt": "jbmr4916 (1).txt"
+  },
+  {
+   "au": "Kong SH",
+   "yr": 2023,
+   "title": "Development and validation of common data model-based fracture prediction model using machine learning algorithm",
+   "doi": "10.1007/s00198-023-06787-7",
+   "txt": "s00198_023_06787_7 (1).txt"
+  }
+ ]
+}
